@@ -40,3 +40,8 @@ Wind".
 
 - https://missing.csail.mit.edu/2020/version-control/
 - https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#The_Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_is_42
+- [Sage repo](https://github.com/sagemath/sage/)
+- [VS Code](https://code.visualstudio.com/)
+
+Git is very cool, and very helpful! It can do so many things!
+
